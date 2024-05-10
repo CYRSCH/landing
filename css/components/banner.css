@@ -1,0 +1,24 @@
+.banner {
+	background-image: url(../../images/ceremonie.jpeg);
+	color: black;
+	padding: 215px 0px;
+	background-size: cover;
+}
+
+.banner h1 {
+	font-size: 65px;
+}
+
+.banner h2 {
+	font-size: 32px;
+	font-weight: lighter;
+	margin-bottom: 40px;
+}
+
+.banner a {
+	opacity: 0.8;
+}
+
+.banner a:hover {
+	background-color: #0E46A3;
+}
